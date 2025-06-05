@@ -109,8 +109,7 @@ venv.bak/
 
 
 .venv
-databse.db
-.env
 __pycache__
 .mypy_cache__
 .vscode
+.gitignore
